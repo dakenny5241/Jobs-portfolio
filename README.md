@@ -11,6 +11,9 @@ This is an employment portfolio created with HTML, CSS, and Flexbox. It showcase
 ## Usage
 
 Clicking on the links in the navigation will scroll to the corresponding section. Clicking on the images of the applications will take you to the deployed application.
+## links to deployed portfolio in github:
+
+https://dakenny5241.github.io/Jobs-portfolio/
 
 ## Credits
 
