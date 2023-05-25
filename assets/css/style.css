@@ -9,7 +9,11 @@
     padding: 0;
     background-color: var(--secondary-color);
   }
-  
+
+  ul {
+    list-style-type: none;
+  }
+
   header {
     background-color: var(--primary-color);
     padding: 1rem;
